@@ -38,19 +38,6 @@ body {
   font-family: "popins", sans-serif;
   color: #b5b1b1;
 }
-.nav__btn {
-  background-color: #fbe850;
-  padding: 20px 30px;
-  color: #0a0a0b;
-  cursor: pointer;
-}
-.nav__btn h3 {
-  font-weight: 400;
-}
-.nav__btn h3 a {
-  text-decoration: none;
-  color: #0a0a0b;
-}
 .hero-text {
   margin-top: 100px;
 }
@@ -227,4 +214,12 @@ p {
     font-size: 30px;
     font-weight: 400;
   }
+}
+
+.btn a{
+  text-decoration: none;
+  background-color: #fbe850;
+  padding: 20px 30px;
+  color: #0a0a0b;
+  font-weight: 400;
 }
